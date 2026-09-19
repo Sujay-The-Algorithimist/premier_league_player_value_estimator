@@ -186,3 +186,65 @@ td { color: #c4d6eb; border-bottom-color: rgba(232, 243, 255, .1); }
 .showcase-player { aspect-ratio: 4 / 5; height: auto; min-height: 540px; }
 .player-silhouette, .player-photo { bottom: 0; height: 100%; left: 0; object-fit: cover; object-position: center; transform: none; width: 100%; }
 .showcase-player:hover .player-photo { transform: scale(1.04); }
+
+@media (max-width: 700px) {
+	.site-nav, .page-content, .site-footer { width: calc(100% - 32px); }
+	.site-nav { padding: 16px 0; }
+	.brand strong { font-size: 10px; }
+	.brand small { font-size: 7px; letter-spacing: .12em; }
+	.site-nav nav { gap: 18px; max-width: 100%; overflow-x: auto; padding-bottom: 3px; scrollbar-width: none; }
+	.site-nav nav::-webkit-scrollbar { display: none; }
+	.nav-link { font-size: 11px; white-space: nowrap; }
+	.cinematic-hero { min-height: 650px; padding: 76px 0 42px; }
+	.cinematic-copy { max-width: 100%; }
+	h1 { font-size: clamp(39px, 13vw, 58px); letter-spacing: -.06em; line-height: .94; margin-bottom: 22px; }
+	h2 { font-size: clamp(30px, 10vw, 46px); letter-spacing: -.055em; }
+	.hero-question { font-size: 22px; }
+	.hero-lede, .section-intro > p, .placeholder-page > p { font-size: 14px; line-height: 1.6; }
+	.hero-actions { align-items: stretch; flex-direction: column; margin-top: 26px; }
+	.hero-actions .button { width: 100%; }
+	.hero-footnote { margin-top: 38px; }
+	.hero-data-overlay { bottom: 24px; left: 0; right: auto; max-width: calc(100% - 8px); padding: 12px 14px; }
+	.hero-data-overlay strong { font-size: 18px; }
+	.hero-art { min-height: 280px; }
+	.showcase-section, .explorer-page, .prediction-room, .analysis-page, .method-page { padding-top: 56px; padding-bottom: 72px; }
+	.showcase-heading { gap: 18px; margin-bottom: 20px; }
+	.showcase-heading > p { font-size: 12px; }
+	.player-rail { gap: 10px; margin-inline: -4px; padding-inline: 4px; }
+	.showcase-player { flex-basis: min(82vw, 360px); min-height: 440px; }
+	.player-info { bottom: 16px; left: 16px; }
+	.player-info h3 { font-size: 26px; }
+	.transition-section { padding: 78px 18px; }
+	.transition-section strong { font-size: clamp(38px, 12vw, 66px); }
+	.section-intro { gap: 24px; padding: 54px 0; }
+	.data-grid, .metric-cards { grid-template-columns: 1fr; margin-top: 30px; }
+	.data-card { min-height: 112px; padding: 18px; }
+	.data-card strong { margin-top: 22px; }
+	.table-panel, .prediction-form, .metric-cards article, .analysis-panel, .method-grid article, .limitations { padding: 18px; }
+	.panel-heading { align-items: flex-start; flex-direction: column; gap: 10px; }
+	.panel-heading h2, .analysis-panel h2, .method-grid h2, .limitations h2 { font-size: 26px; }
+	.explorer-heading { align-items: flex-start; flex-direction: column; gap: 24px; }
+	.explorer-heading h1 { margin-bottom: 18px; }
+	.explorer-stamp { min-width: 0; padding-left: 14px; }
+	.explorer-stamp strong { font-size: 38px; }
+	.explorer-toolbar { flex-direction: column; gap: 12px; margin: 32px 0 12px; }
+	.explorer-toolbar label, .explorer-toolbar label:first-child { min-width: 0; width: 100%; }
+	.explorer-row { gap: 6px 10px; grid-template-columns: 26px minmax(0, 1fr) auto; padding: 16px 6px; }
+	.explorer-row > :nth-child(3), .explorer-row > :nth-child(5), .explorer-row > :nth-child(6) { display: none; }
+	.explorer-row > :nth-child(4) { grid-column: 3; grid-row: 1; }
+	.explorer-player strong { font-size: 14px; }
+	.explorer-player small { font-size: 9px; }
+	.prediction-layout { gap: 16px; margin-top: 30px; }
+	.prediction-form { padding: 16px; }
+	.form-grid { grid-template-columns: 1fr; gap: 12px; }
+	.form-grid label { font-size: 9px; }
+	.form-grid input, .form-grid select { min-height: 44px; }
+	.predict-button { width: 100%; }
+	.prediction-result { min-height: 240px; padding: 22px; }
+	.prediction-result strong { font-size: clamp(42px, 14vw, 62px); }
+	.analysis-grid, .segment-grid, .method-grid { gap: 12px; }
+	.importance-row { grid-template-columns: 1fr 1fr 38px; }
+	.histogram { gap: 4px; height: 160px; }
+	.site-footer { padding: 26px 0 34px; }
+	.footer-meta { gap: 10px 14px; line-height: 1.5; }
+}
