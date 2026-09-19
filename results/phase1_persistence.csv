@@ -1,0 +1,2 @@
+reference,rows,coverage_pct,r2_log,rmse_log,mae_log
+previous_valuation_before_season_end,1038,99.04580152671755,0.9688224414189189,0.21235870598980514,0.14706550053962825

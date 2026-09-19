@@ -1,0 +1,7 @@
+{
+  "dataset_status": "real",
+  "generated_at": "2026-09-19",
+  "source": "Transfermarkt-based DuckDB snapshot",
+  "note": "1048 held-out player-season evaluations from the Random Forest model. Values are historical estimates, not live market intelligence.",
+  "schema_version": "1.1"
+}

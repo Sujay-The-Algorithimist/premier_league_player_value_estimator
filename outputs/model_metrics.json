@@ -1,0 +1,62 @@
+{
+  "selected_model": "random_forest",
+  "train_seasons": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "test_seasons": [
+    2024,
+    2025
+  ],
+  "train_rows": 5824,
+  "test_rows": 1048,
+  "features": [
+    "appearances",
+    "minutes_played",
+    "goals",
+    "assists",
+    "yellow_cards",
+    "red_cards",
+    "clubs_in_season",
+    "height_in_cm",
+    "age_at_season_end",
+    "position",
+    "sub_position",
+    "foot",
+    "country_of_citizenship"
+  ],
+  "baseline": {
+    "rows": 1048,
+    "rmse_log_eur": 1.3795639457725928,
+    "mae_log_eur": 1.1644112160271474,
+    "r2_log_eur": -0.2246099699210775,
+    "mae_eur": 17669489.206548754,
+    "median_absolute_error_eur": 10542151.670043383
+  },
+  "ridge_linear": {
+    "rows": 1048,
+    "rmse_log_eur": 0.9847569495410881,
+    "mae_log_eur": 0.7882476294776796,
+    "r2_log_eur": 0.37601776115855146,
+    "mae_eur": 12836995.887978613,
+    "median_absolute_error_eur": 7578898.100981627
+  },
+  "random_forest": {
+    "rows": 1048,
+    "rmse_log_eur": 0.9463239652611373,
+    "mae_log_eur": 0.780392370657318,
+    "r2_log_eur": 0.4237727446462778,
+    "mae_eur": 12849639.169556657,
+    "median_absolute_error_eur": 7368278.130957268
+  }
+}

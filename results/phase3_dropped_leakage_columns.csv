@@ -1,0 +1,9 @@
+dropped_column,reason
+highest_market_value_in_eur,leakage rule
+market_value_in_eur,leakage rule
+international_caps,leakage rule
+international_goals,leakage rule
+current_club_name,leakage rule
+contract_expiration_date,leakage rule
+previous_market_value,leakage rule
+previous_valuation,leakage rule

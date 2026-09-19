@@ -1,0 +1,3 @@
+[
+  {"feature":"Two-season minutes","importance":0.21},{"feature":"Age at valuation","importance":0.18},{"feature":"Goals per 90","importance":0.16},{"feature":"Previous-season points","importance":0.13},{"feature":"Minutes share","importance":0.11},{"feature":"Assists per 90","importance":0.08},{"feature":"Position","importance":0.06},{"feature":"Finishing position","importance":0.04},{"feature":"Champions League played","importance":0.03}
+]

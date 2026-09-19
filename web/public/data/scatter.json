@@ -1,0 +1,4194 @@
+[
+  {
+    "actual_value_eur": 200000000,
+    "predicted_value_eur": 226555124
+  },
+  {
+    "actual_value_eur": 180000000,
+    "predicted_value_eur": 197193887
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 160505819
+  },
+  {
+    "actual_value_eur": 110000000,
+    "predicted_value_eur": 149373900
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 131292321
+  },
+  {
+    "actual_value_eur": 150000000,
+    "predicted_value_eur": 131088575
+  },
+  {
+    "actual_value_eur": 120000000,
+    "predicted_value_eur": 129854203
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 123588185
+  },
+  {
+    "actual_value_eur": 90000000,
+    "predicted_value_eur": 116096186
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 115546656
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 113728726
+  },
+  {
+    "actual_value_eur": 90000000,
+    "predicted_value_eur": 113705165
+  },
+  {
+    "actual_value_eur": 85000000,
+    "predicted_value_eur": 111829472
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 111362318
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 108209134
+  },
+  {
+    "actual_value_eur": 120000000,
+    "predicted_value_eur": 106459487
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 106346891
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 105223818
+  },
+  {
+    "actual_value_eur": 120000000,
+    "predicted_value_eur": 104894692
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 103555796
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 103199037
+  },
+  {
+    "actual_value_eur": 90000000,
+    "predicted_value_eur": 101977403
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 101744784
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 100637658
+  },
+  {
+    "actual_value_eur": 120000000,
+    "predicted_value_eur": 99724809
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 96631802
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 96608703
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 96562610
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 95368053
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 95023821
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 94609762
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 94056828
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 93274159
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 92355100
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 92342041
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 92322634
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 92048416
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 90859684
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 90064277
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 88553287
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 88380141
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 88214061
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 87593377
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 87397138
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 86893128
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 86082685
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 86079403
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 86032370
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 85822398
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 85052671
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 84944101
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 83666817
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 82667119
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 81617295
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 79853472
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 79289623
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 78894519
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 78468289
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 77983591
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 77883821
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 77718692
+  },
+  {
+    "actual_value_eur": 100000000,
+    "predicted_value_eur": 76822045
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 76043133
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 75807817
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 75516554
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 75389291
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 75109817
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 75102007
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 74869015
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 74683000
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 74521922
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 73826743
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 73604720
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 73550425
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 73297403
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 72328133
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 72196430
+  },
+  {
+    "actual_value_eur": 42000000,
+    "predicted_value_eur": 72047379
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 71725425
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 70813354
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 70759130
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 70501422
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 70346620
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 70179230
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 69898702
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 69317762
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 69056343
+  },
+  {
+    "actual_value_eur": 90000000,
+    "predicted_value_eur": 68353457
+  },
+  {
+    "actual_value_eur": 85000000,
+    "predicted_value_eur": 67338691
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 67215204
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 66978137
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 66141933
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 65702834
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 65672789
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 65625666
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 65607807
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 65582648
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 65568901
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 65247799
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 64323885
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 64218081
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 64152452
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 63724971
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 63620924
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 63303212
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 62631082
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 62510264
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 62318448
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 62306611
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 61525671
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 61202169
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 60863304
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 60786844
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 60335275
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 59837445
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 59707029
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 59702801
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 59364662
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 59322921
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 58917732
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 58722123
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 58518915
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 58510259
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 58286887
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 58244860
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 57493937
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 56899750
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 56855441
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 56580305
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 56317404
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 55848867
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 55785638
+  },
+  {
+    "actual_value_eur": 65000000,
+    "predicted_value_eur": 55315357
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 54781528
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 54665799
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 54572196
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 54550050
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 53910016
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 53768445
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 53468166
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 53375901
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 53332401
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 53190777
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 52541134
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 52462420
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 52410885
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 52020480
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 51565894
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 51539992
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 51476269
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 50202863
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 50097435
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 49828804
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 49536820
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 49333558
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 49295262
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 49279550
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 49271341
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 49173211
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 49131781
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 49118619
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 49111258
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 48832009
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 48664873
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 48628058
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 48279520
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 47836342
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 47720732
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 47463762
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 47347880
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 47211664
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 47115634
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 47084579
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 47058241
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 46940077
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 46873939
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 46798932
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 46796549
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 46602624
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 46560774
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 46541046
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 46456018
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 46427500
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 46168248
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 45840759
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 45625250
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 45344562
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 45154430
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 45147174
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 44892950
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 44888764
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 44773210
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 44713813
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 44389516
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 44106474
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 44101584
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 44014891
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 43858647
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 43309945
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 43248810
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 43162905
+  },
+  {
+    "actual_value_eur": 110000000,
+    "predicted_value_eur": 43028899
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 42989440
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 42842099
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 42799273
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 42515328
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 42353203
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 42310542
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 42301424
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 42267275
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 42210801
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 42184380
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 42071080
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 41960923
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 41912315
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 41750067
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 41739452
+  },
+  {
+    "actual_value_eur": 42000000,
+    "predicted_value_eur": 41546472
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 41308722
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 41231344
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 41104810
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 41051788
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 41024118
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 41015171
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 40740393
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 40718253
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 40708750
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 40691256
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 40568595
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 40541077
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 40470696
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 39969489
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 39909283
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 39903365
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 39682407
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 39504182
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 39373608
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 39346712
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 38952986
+  },
+  {
+    "actual_value_eur": 75000000,
+    "predicted_value_eur": 38924593
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 38867928
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 38738707
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 38513585
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 38268225
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 38221744
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 38200925
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 38071639
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37901378
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37834882
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37686220
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 37662377
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37576201
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 37546871
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 37262717
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 37206281
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37148023
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 37129338
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 37013389
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 36967192
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 36923386
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 36915829
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 36843829
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 36679563
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 36634346
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 36412460
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 36282011
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 36236294
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 36140623
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 36090719
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 36084464
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 36073154
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 36070543
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 36024935
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 35962196
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 35942789
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 35481433
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 35410271
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 35390149
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 35274336
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 35233647
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 35163135
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 35028074
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 34956453
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 34823238
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 34659404
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 34616791
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 34479861
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 34450037
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 34436288
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 34330338
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 34299827
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 34258956
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 34257946
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 34017506
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 33833825
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 33772440
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 33728184
+  },
+  {
+    "actual_value_eur": 42000000,
+    "predicted_value_eur": 33637256
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 33612941
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 33447794
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 33404214
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 33362408
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 33188127
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 32893119
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 32804145
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 32793073
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 32785452
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 32490737
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 32467730
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 32420211
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 32417596
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 32413704
+  },
+  {
+    "actual_value_eur": 80000000,
+    "predicted_value_eur": 32393094
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 32373441
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 32281960
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 32262821
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 31971497
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 31814483
+  },
+  {
+    "actual_value_eur": 23000000,
+    "predicted_value_eur": 31656253
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 31598055
+  },
+  {
+    "actual_value_eur": 70000000,
+    "predicted_value_eur": 31589086
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 31403334
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 31278798
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 31063684
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 31059130
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 31001241
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 30958585
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 30948866
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 30810182
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 30800031
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 30760729
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 30459930
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 30457040
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 30437924
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 30408902
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 30028055
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 29915526
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 29751547
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 29748702
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 29695324
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 29605177
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 29600865
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 29519676
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 29329132
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 29325957
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 29316100
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 29300130
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 29287272
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 29219204
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 29186488
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 29059002
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 28919039
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 28904809
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 28818596
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 28696239
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 28681245
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 28662844
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 28448526
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 28211918
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 28090022
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 28079859
+  },
+  {
+    "actual_value_eur": 24000000,
+    "predicted_value_eur": 28027715
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 28018793
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 27991510
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 27821846
+  },
+  {
+    "actual_value_eur": 24000000,
+    "predicted_value_eur": 27742992
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 27632667
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 27612531
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 27545758
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 27513142
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 27484222
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 27463104
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 27340865
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 27271639
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 27258277
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 27193583
+  },
+  {
+    "actual_value_eur": 17000000,
+    "predicted_value_eur": 27076700
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 27060691
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 27045354
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 27014180
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 27009997
+  },
+  {
+    "actual_value_eur": 60000000,
+    "predicted_value_eur": 26788912
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 26727402
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 26555711
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 26545504
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 26542181
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 26486006
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 26473376
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 26453926
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 26226728
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 26188495
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 26085215
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 26061900
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 25970526
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 25920874
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 25845362
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 25804824
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 25797596
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 25697828
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 25689076
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 25588737
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 25553217
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 25399758
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 25343559
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 25336367
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 25303236
+  },
+  {
+    "actual_value_eur": 23000000,
+    "predicted_value_eur": 25247179
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 25206254
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 25120304
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 24993186
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 24986182
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 24965609
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 24904128
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 24818708
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 24672565
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 24616285
+  },
+  {
+    "actual_value_eur": 17000000,
+    "predicted_value_eur": 24615731
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 24493139
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 24438429
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 24347462
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 24248760
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 24169902
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 24140782
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 23956411
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 23872991
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 23844966
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 23744178
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 23708926
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 23654486
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 23648992
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 23584563
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 23567768
+  },
+  {
+    "actual_value_eur": 42000000,
+    "predicted_value_eur": 23553057
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 23546375
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 23364415
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 23026777
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 22960806
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 22950968
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 22892634
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 22865627
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 22843006
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 22755692
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 22736731
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 22721313
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 22705336
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 22663894
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 22656595
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 22571477
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 22532601
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 22455385
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 22449380
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 22446317
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 22266953
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 22143805
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 22141515
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 22140829
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 22127555
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 22078989
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 22025027
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21971820
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21930647
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 21926679
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 21862068
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 21830357
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 21741245
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 21643031
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21640889
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 21478152
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21361609
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 21287149
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 21212086
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21148887
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 21124657
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 21071483
+  },
+  {
+    "actual_value_eur": 38000000,
+    "predicted_value_eur": 21069373
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 21020930
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 21002399
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 20989460
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20959162
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 20950136
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 20851180
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 20749031
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20744307
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 20680779
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20454220
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 20453902
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 20446715
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20417614
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20411835
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 20380375
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 20231928
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 20215065
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 20176174
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 20122869
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 20084249
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 20074809
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 20041031
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 20002898
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 19955104
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 19797101
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 19611739
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 19602789
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 19589479
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 19559022
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 19513550
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 19510486
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 19466158
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 19428887
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 19391547
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 19367376
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 19319522
+  },
+  {
+    "actual_value_eur": 32000000,
+    "predicted_value_eur": 19311123
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 19301265
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 19249406
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 19217444
+  },
+  {
+    "actual_value_eur": 50000000,
+    "predicted_value_eur": 19206929
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 19137722
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 19112879
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 19057320
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 18939212
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 18890271
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 18877584
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 18876303
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 18873811
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 18846743
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 18761072
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 18743049
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 18738215
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 18663270
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 18586823
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 18518355
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 18492016
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 18458778
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 18181814
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 18041427
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 17885215
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 17831176
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 17774455
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 17689861
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 17601851
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 17513427
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 17490636
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 17463499
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 17442851
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 17395341
+  },
+  {
+    "actual_value_eur": 45000000,
+    "predicted_value_eur": 17385108
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 17372201
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 17362500
+  },
+  {
+    "actual_value_eur": 55000000,
+    "predicted_value_eur": 17277661
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 17212046
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 16828796
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 16797740
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 16715255
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 16696377
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 16694608
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 16608230
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 16577474
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 16547078
+  },
+  {
+    "actual_value_eur": 17000000,
+    "predicted_value_eur": 16497620
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 16463392
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 16455662
+  },
+  {
+    "actual_value_eur": 17000000,
+    "predicted_value_eur": 16395082
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 16346545
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 16307175
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 16265544
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 16163981
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 16139033
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 15981410
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15967108
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 15964999
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15931047
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 15883212
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 15812899
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 15797028
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 15789755
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 15741811
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 15739407
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15723913
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 15718455
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 15671170
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 15627858
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 15617022
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15574600
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 15455080
+  },
+  {
+    "actual_value_eur": 35000000,
+    "predicted_value_eur": 15443862
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 15365069
+  },
+  {
+    "actual_value_eur": 27000000,
+    "predicted_value_eur": 15341187
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 15341023
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15263028
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 15220456
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 15129711
+  },
+  {
+    "actual_value_eur": 40000000,
+    "predicted_value_eur": 15078524
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 15034753
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 15029957
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 14998651
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 14980026
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 14953410
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 14947055
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 14943180
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 14927387
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 14802235
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 14787713
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 14786627
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 14760940
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 14739078
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 14723614
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 14688536
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 14685113
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 14633884
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 14622560
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 14540296
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 14527559
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 14511212
+  },
+  {
+    "actual_value_eur": 28000000,
+    "predicted_value_eur": 14498953
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 14498200
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 14470243
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 14460765
+  },
+  {
+    "actual_value_eur": 9500000,
+    "predicted_value_eur": 14435937
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 14400330
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 14365188
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 14337525
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 14294257
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 14229305
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 14228546
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 14203782
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 14140875
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 14137938
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 14090418
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 14084605
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 14011954
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 14009156
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 13987314
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 13954956
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 13953123
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 13924375
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 13807854
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 13752658
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 13743699
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 13716028
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 13608681
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 13541156
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 13523604
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 13500991
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 13462854
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 13445205
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 13429207
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 13417432
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 13375270
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 13362627
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 13327257
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 13308555
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 13292237
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 13283731
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 13201600
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 13178842
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 13083540
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 13080994
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 13012130
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 13001231
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 12942795
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 12923558
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 12911349
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 12900050
+  },
+  {
+    "actual_value_eur": 7500000,
+    "predicted_value_eur": 12881852
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 12881337
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 12878308
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12835556
+  },
+  {
+    "actual_value_eur": 23000000,
+    "predicted_value_eur": 12772219
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12770180
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12768522
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 12761940
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12698952
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 12686290
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 12678002
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 12674909
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 12639275
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 12598767
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 12541693
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 12539592
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 12537161
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 12524104
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 12384463
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 12373243
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12366050
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 12358965
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 12357892
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 12339182
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 12323497
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 12292912
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12271203
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 12197054
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 12151298
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12150242
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 12083047
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 12073023
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 12064781
+  },
+  {
+    "actual_value_eur": 6500000,
+    "predicted_value_eur": 12014025
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11932396
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 11859842
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11815707
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11761861
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 11750159
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11746822
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 11744554
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11741866
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11730363
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11687386
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 11678332
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 11588837
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11474252
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11435511
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11410602
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11408314
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 11388708
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 11368836
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 11333318
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 11308717
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 11268321
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 11149188
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 11147799
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 11142237
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 11112215
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 10994190
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 10960831
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 10950120
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 10868315
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 10864996
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 10834590
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 10744541
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 10720567
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 10662660
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 10621504
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 10602177
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 10513782
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 10453786
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 10426145
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 10406880
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 10379041
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 10352235
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 10337038
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 10323458
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 10288369
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 10229874
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 10228912
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 10207537
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 10178852
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 10162590
+  },
+  {
+    "actual_value_eur": 24000000,
+    "predicted_value_eur": 10114412
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 10110729
+  },
+  {
+    "actual_value_eur": 4500000,
+    "predicted_value_eur": 10004946
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 10000276
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 9941167
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 9900851
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 9887089
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 9858250
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 9780434
+  },
+  {
+    "actual_value_eur": 22000000,
+    "predicted_value_eur": 9745865
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 9721537
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 9715327
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 9647624
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 9584772
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 9578112
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 9573532
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 9573252
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 9373087
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 9365187
+  },
+  {
+    "actual_value_eur": 13000000,
+    "predicted_value_eur": 9347670
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 9344407
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 9342741
+  },
+  {
+    "actual_value_eur": 14000000,
+    "predicted_value_eur": 9336475
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 9333705
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 9325683
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 9274740
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 9006890
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 8960019
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 8958034
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 8941841
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 8926089
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 8892525
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 8851204
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 8844317
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 8810558
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 8807780
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 8791196
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 8757274
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 8753883
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 8733236
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 8603346
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 8595658
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 8572649
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 8557095
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 8547305
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 8489053
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 8436820
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 8400416
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 8278466
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 8249707
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 8199451
+  },
+  {
+    "actual_value_eur": 750000,
+    "predicted_value_eur": 8193800
+  },
+  {
+    "actual_value_eur": 7500000,
+    "predicted_value_eur": 8187107
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 8186051
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 8153019
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 8114799
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 8102986
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 8090759
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 8066743
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 8051495
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 8030851
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 8021410
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 7992315
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 7963918
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 7932040
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7885616
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 7876746
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 7797277
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7787519
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7779910
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 7767536
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 7713663
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 7707675
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 7639855
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 7619643
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 7530573
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 7498026
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 7476632
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7465413
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7440959
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 7433253
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 7410228
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 7407883
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 7402000
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 7382623
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 7358873
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 7221854
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 7212156
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 7168162
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 7162764
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 7124028
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 7085113
+  },
+  {
+    "actual_value_eur": 17000000,
+    "predicted_value_eur": 6996918
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 6996699
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 6958124
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 6955443
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 6911550
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 6833878
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 6820503
+  },
+  {
+    "actual_value_eur": 5500000,
+    "predicted_value_eur": 6805411
+  },
+  {
+    "actual_value_eur": 16000000,
+    "predicted_value_eur": 6793887
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 6780545
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 6666971
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 6552902
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 6507822
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 6494728
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 6489616
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 6485859
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 6461039
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 6454327
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 6422870
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 6388053
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 6316765
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 6296221
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 6228209
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 6208217
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 6188818
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 6159391
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 6156164
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 6139374
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 6125699
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 6078527
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 6048392
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 6045727
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 5998919
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 5958287
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 5934794
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 5892181
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 5881030
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 5848058
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 5846151
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 5842686
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 5795099
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 5737804
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 5681684
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 5680629
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 5614581
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 5576588
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 5551177
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 5533874
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 5515575
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 5422523
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 5410523
+  },
+  {
+    "actual_value_eur": 2200000,
+    "predicted_value_eur": 5376946
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 5354691
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 5351417
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 5331535
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 5285745
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 5241755
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 5192455
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 5094076
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 4980455
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 4972940
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 4923155
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 4905495
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4903508
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 4896808
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 4875472
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4875415
+  },
+  {
+    "actual_value_eur": 2200000,
+    "predicted_value_eur": 4848395
+  },
+  {
+    "actual_value_eur": 12000000,
+    "predicted_value_eur": 4845225
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 4830100
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 4822364
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4790312
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 4777155
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 4746392
+  },
+  {
+    "actual_value_eur": 9000000,
+    "predicted_value_eur": 4742467
+  },
+  {
+    "actual_value_eur": 600000,
+    "predicted_value_eur": 4741529
+  },
+  {
+    "actual_value_eur": 25000000,
+    "predicted_value_eur": 4649792
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4647298
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4632155
+  },
+  {
+    "actual_value_eur": 4500000,
+    "predicted_value_eur": 4605407
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 4600655
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 4583182
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 4576186
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 4573920
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4567231
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4550106
+  },
+  {
+    "actual_value_eur": 18000000,
+    "predicted_value_eur": 4524768
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4449077
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4435436
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4375134
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4353319
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 4309734
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 4261096
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 4232416
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 4209734
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4199795
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 4172231
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 4134171
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 4034719
+  },
+  {
+    "actual_value_eur": 700000,
+    "predicted_value_eur": 4031593
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 4021813
+  },
+  {
+    "actual_value_eur": 4500000,
+    "predicted_value_eur": 4019912
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 3940278
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 3918978
+  },
+  {
+    "actual_value_eur": 10000000,
+    "predicted_value_eur": 3873420
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 3855851
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 3854270
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 3832060
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 3777735
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 3757849
+  },
+  {
+    "actual_value_eur": 20000000,
+    "predicted_value_eur": 3731039
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 3699117
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 3695589
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 3685500
+  },
+  {
+    "actual_value_eur": 30000000,
+    "predicted_value_eur": 3586632
+  },
+  {
+    "actual_value_eur": 3500000,
+    "predicted_value_eur": 3582927
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 3412194
+  },
+  {
+    "actual_value_eur": 3000000,
+    "predicted_value_eur": 3409730
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 3315139
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 3238028
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 3165480
+  },
+  {
+    "actual_value_eur": 300000,
+    "predicted_value_eur": 3122421
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 3105000
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 3100188
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 3085195
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 3070756
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 3037557
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 3028263
+  },
+  {
+    "actual_value_eur": 4500000,
+    "predicted_value_eur": 3020105
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 2966943
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 2943021
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 2909765
+  },
+  {
+    "actual_value_eur": 75000,
+    "predicted_value_eur": 2899941
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 2878525
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 2867230
+  },
+  {
+    "actual_value_eur": 600000,
+    "predicted_value_eur": 2866654
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 2856914
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 2851364
+  },
+  {
+    "actual_value_eur": 1200000,
+    "predicted_value_eur": 2846318
+  },
+  {
+    "actual_value_eur": 1200000,
+    "predicted_value_eur": 2842677
+  },
+  {
+    "actual_value_eur": 750000,
+    "predicted_value_eur": 2841156
+  },
+  {
+    "actual_value_eur": 4000000,
+    "predicted_value_eur": 2825673
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 2823307
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 2795942
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 2789382
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 2780566
+  },
+  {
+    "actual_value_eur": 6000000,
+    "predicted_value_eur": 2729358
+  },
+  {
+    "actual_value_eur": 5000000,
+    "predicted_value_eur": 2717566
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 2708835
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 2650575
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 2628823
+  },
+  {
+    "actual_value_eur": 7000000,
+    "predicted_value_eur": 2521395
+  },
+  {
+    "actual_value_eur": 400000,
+    "predicted_value_eur": 2502357
+  },
+  {
+    "actual_value_eur": 4500000,
+    "predicted_value_eur": 2419813
+  },
+  {
+    "actual_value_eur": 8000000,
+    "predicted_value_eur": 2411344
+  },
+  {
+    "actual_value_eur": 700000,
+    "predicted_value_eur": 2389217
+  },
+  {
+    "actual_value_eur": 400000,
+    "predicted_value_eur": 2384322
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 2325618
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 2325262
+  },
+  {
+    "actual_value_eur": 2500000,
+    "predicted_value_eur": 2288608
+  },
+  {
+    "actual_value_eur": 600000,
+    "predicted_value_eur": 2270008
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 2246525
+  },
+  {
+    "actual_value_eur": 300000,
+    "predicted_value_eur": 2238432
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 2237531
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 2218867
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 2213746
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 2185708
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 2142566
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 2088930
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 2046364
+  },
+  {
+    "actual_value_eur": 750000,
+    "predicted_value_eur": 2014719
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 1985425
+  },
+  {
+    "actual_value_eur": 3800000,
+    "predicted_value_eur": 1971968
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 1966466
+  },
+  {
+    "actual_value_eur": 15000000,
+    "predicted_value_eur": 1906611
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1900577
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1884179
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1861987
+  },
+  {
+    "actual_value_eur": 300000,
+    "predicted_value_eur": 1819521
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1812125
+  },
+  {
+    "actual_value_eur": 800000,
+    "predicted_value_eur": 1769129
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1716574
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 1692491
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 1603797
+  },
+  {
+    "actual_value_eur": 11000000,
+    "predicted_value_eur": 1570450
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 1565743
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1513683
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1511708
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1457815
+  },
+  {
+    "actual_value_eur": 400000,
+    "predicted_value_eur": 1391982
+  },
+  {
+    "actual_value_eur": 750000,
+    "predicted_value_eur": 1371624
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1366664
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 1346126
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1314428
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 1304097
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1296262
+  },
+  {
+    "actual_value_eur": 300000,
+    "predicted_value_eur": 1268916
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1245736
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1236804
+  },
+  {
+    "actual_value_eur": 500000,
+    "predicted_value_eur": 1196594
+  },
+  {
+    "actual_value_eur": 275000,
+    "predicted_value_eur": 1193350
+  },
+  {
+    "actual_value_eur": 250000,
+    "predicted_value_eur": 1189438
+  },
+  {
+    "actual_value_eur": 1500000,
+    "predicted_value_eur": 1172051
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 1134168
+  },
+  {
+    "actual_value_eur": 1000000,
+    "predicted_value_eur": 1113767
+  },
+  {
+    "actual_value_eur": 200000,
+    "predicted_value_eur": 1047864
+  },
+  {
+    "actual_value_eur": 150000,
+    "predicted_value_eur": 845582
+  },
+  {
+    "actual_value_eur": 2000000,
+    "predicted_value_eur": 828837
+  },
+  {
+    "actual_value_eur": 350000,
+    "predicted_value_eur": 796684
+  }
+]

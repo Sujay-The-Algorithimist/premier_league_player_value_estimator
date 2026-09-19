@@ -1,0 +1,767 @@
+{
+  "database": "C:\\Users\\SUJAY DAS\\Desktop\\here-s-a-detailed-brief-you\\data\\raw\\transfermarkt-datasets.duckdb",
+  "tables": {
+    "players": {
+      "row_count": 50149,
+      "nulls": [
+        {
+          "column": "player_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "first_name",
+          "type": "VARCHAR",
+          "null_count": 3164,
+          "null_pct": 6.3092
+        },
+        {
+          "column": "last_name",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "name",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "last_season",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "current_club_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_code",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "country_of_birth",
+          "type": "VARCHAR",
+          "null_count": 5885,
+          "null_pct": 11.735
+        },
+        {
+          "column": "city_of_birth",
+          "type": "VARCHAR",
+          "null_count": 5608,
+          "null_pct": 11.1827
+        },
+        {
+          "column": "country_of_citizenship",
+          "type": "VARCHAR",
+          "null_count": 269,
+          "null_pct": 0.5364
+        },
+        {
+          "column": "date_of_birth",
+          "type": "TIMESTAMP",
+          "null_count": 49,
+          "null_pct": 0.0977
+        },
+        {
+          "column": "sub_position",
+          "type": "VARCHAR",
+          "null_count": 586,
+          "null_pct": 1.1685
+        },
+        {
+          "column": "position",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "foot",
+          "type": "VARCHAR",
+          "null_count": 5893,
+          "null_pct": 11.751
+        },
+        {
+          "column": "height_in_cm",
+          "type": "INTEGER",
+          "null_count": 4365,
+          "null_pct": 8.7041
+        },
+        {
+          "column": "contract_expiration_date",
+          "type": "TIMESTAMP",
+          "null_count": 18569,
+          "null_pct": 37.0277
+        },
+        {
+          "column": "agent_name",
+          "type": "VARCHAR",
+          "null_count": 23296,
+          "null_pct": 46.4536
+        },
+        {
+          "column": "image_url",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "international_caps",
+          "type": "INTEGER",
+          "null_count": 30793,
+          "null_pct": 61.403
+        },
+        {
+          "column": "international_goals",
+          "type": "INTEGER",
+          "null_count": 30793,
+          "null_pct": 61.403
+        },
+        {
+          "column": "current_national_team_id",
+          "type": "VARCHAR",
+          "null_count": 46889,
+          "null_pct": 93.4994
+        },
+        {
+          "column": "url",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "current_club_domestic_competition_id",
+          "type": "VARCHAR",
+          "null_count": 2986,
+          "null_pct": 5.9543
+        },
+        {
+          "column": "current_club_name",
+          "type": "VARCHAR",
+          "null_count": 2986,
+          "null_pct": 5.9543
+        },
+        {
+          "column": "market_value_in_eur",
+          "type": "INTEGER",
+          "null_count": 8621,
+          "null_pct": 17.1908
+        },
+        {
+          "column": "highest_market_value_in_eur",
+          "type": "INTEGER",
+          "null_count": 8621,
+          "null_pct": 17.1908
+        }
+      ],
+      "date_ranges": [
+        {
+          "column": "date_of_birth",
+          "min": "1968-07-31 00:00:00",
+          "max": "2011-02-23 00:00:00"
+        },
+        {
+          "column": "contract_expiration_date",
+          "min": "2000-05-31 00:00:00",
+          "max": "2035-06-30 00:00:00"
+        }
+      ]
+    },
+    "appearances": {
+      "row_count": 1894350,
+      "nulls": [
+        {
+          "column": "appearance_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "game_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_club_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_current_club_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "date",
+          "type": "DATE",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_name",
+          "type": "VARCHAR",
+          "null_count": 2,
+          "null_pct": 0.0001
+        },
+        {
+          "column": "competition_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "yellow_cards",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "red_cards",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "goals",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "assists",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "minutes_played",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        }
+      ],
+      "date_ranges": [
+        {
+          "column": "date",
+          "min": "2012-07-03",
+          "max": "2026-06-28"
+        }
+      ]
+    },
+    "games": {
+      "row_count": 88958,
+      "nulls": [
+        {
+          "column": "game_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "competition_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "season",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "round",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "date",
+          "type": "DATE",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "home_club_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "away_club_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "home_club_goals",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "away_club_goals",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "home_club_position",
+          "type": "INTEGER",
+          "null_count": 25377,
+          "null_pct": 28.5269
+        },
+        {
+          "column": "away_club_position",
+          "type": "INTEGER",
+          "null_count": 25377,
+          "null_pct": 28.5269
+        },
+        {
+          "column": "home_club_manager_name",
+          "type": "VARCHAR",
+          "null_count": 844,
+          "null_pct": 0.9488
+        },
+        {
+          "column": "away_club_manager_name",
+          "type": "VARCHAR",
+          "null_count": 844,
+          "null_pct": 0.9488
+        },
+        {
+          "column": "stadium",
+          "type": "VARCHAR",
+          "null_count": 242,
+          "null_pct": 0.272
+        },
+        {
+          "column": "attendance",
+          "type": "INTEGER",
+          "null_count": 10803,
+          "null_pct": 12.1439
+        },
+        {
+          "column": "referee",
+          "type": "VARCHAR",
+          "null_count": 678,
+          "null_pct": 0.7622
+        },
+        {
+          "column": "url",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "home_club_formation",
+          "type": "VARCHAR",
+          "null_count": 8200,
+          "null_pct": 9.2178
+        },
+        {
+          "column": "away_club_formation",
+          "type": "VARCHAR",
+          "null_count": 8073,
+          "null_pct": 9.0751
+        },
+        {
+          "column": "home_club_name",
+          "type": "VARCHAR",
+          "null_count": 86,
+          "null_pct": 0.0967
+        },
+        {
+          "column": "away_club_name",
+          "type": "VARCHAR",
+          "null_count": 36,
+          "null_pct": 0.0405
+        },
+        {
+          "column": "aggregate",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "competition_type",
+          "type": "VARCHAR",
+          "null_count": 1214,
+          "null_pct": 1.3647
+        }
+      ],
+      "date_ranges": [
+        {
+          "column": "date",
+          "min": "2006-06-09",
+          "max": "2026-07-06"
+        }
+      ]
+    },
+    "competitions": {
+      "row_count": 65,
+      "nulls": [
+        {
+          "column": "competition_id",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "competition_code",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "name",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "sub_type",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "type",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "country_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "country_name",
+          "type": "VARCHAR",
+          "null_count": 12,
+          "null_pct": 18.4615
+        },
+        {
+          "column": "domestic_league_code",
+          "type": "VARCHAR",
+          "null_count": 12,
+          "null_pct": 18.4615
+        },
+        {
+          "column": "confederation",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "total_clubs",
+          "type": "INTEGER",
+          "null_count": 15,
+          "null_pct": 23.0769
+        },
+        {
+          "column": "url",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        }
+      ],
+      "date_ranges": []
+    },
+    "player_valuations": {
+      "row_count": 656301,
+      "nulls": [
+        {
+          "column": "player_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "date",
+          "type": "DATE",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "market_value_in_eur",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "current_club_name",
+          "type": "VARCHAR",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "current_club_id",
+          "type": "INTEGER",
+          "null_count": 0,
+          "null_pct": 0.0
+        },
+        {
+          "column": "player_club_domestic_competition_id",
+          "type": "VARCHAR",
+          "null_count": 92973,
+          "null_pct": 14.1662
+        }
+      ],
+      "date_ranges": [
+        {
+          "column": "date",
+          "min": "2000-01-20",
+          "max": "2026-06-12"
+        }
+      ]
+    }
+  },
+  "join_coverage": {
+    "appearances_player": {
+      "source_rows": 1894350,
+      "matched_rows": 1894348,
+      "unmatched_rows": 2,
+      "match_pct": 99.9999
+    },
+    "appearances_game": {
+      "source_rows": 1894350,
+      "matched_rows": 1894350,
+      "unmatched_rows": 0,
+      "match_pct": 100.0
+    },
+    "appearances_competition": {
+      "source_rows": 1894350,
+      "matched_rows": 1880150,
+      "unmatched_rows": 14200,
+      "match_pct": 99.2504
+    },
+    "valuations_player": {
+      "source_rows": 656301,
+      "matched_rows": 656301,
+      "unmatched_rows": 0,
+      "match_pct": 100.0
+    },
+    "valuations_positive_value": {
+      "source_rows": 656301,
+      "matched_rows": 656300,
+      "unmatched_rows": 1,
+      "match_pct": 99.9998
+    }
+  },
+  "duplicate_group_counts": {
+    "players_duplicate_player_ids": 0,
+    "games_duplicate_game_ids": 0,
+    "valuations_duplicate_player_date": 0
+  },
+  "valuation_distribution": {
+    "rows": 656301,
+    "null_values": 0,
+    "minimum_eur": 0,
+    "maximum_eur": 200000000,
+    "p01_eur": 25000.0,
+    "p25_eur": 200000.0,
+    "p50_eur": 500000.0,
+    "p75_eur": 1500000.0,
+    "p99_eur": 32000000.0,
+    "mean_eur": 2290092.7440290353
+  },
+  "game_rows_by_season": [
+    {
+      "season": "2005",
+      "game_rows": 64
+    },
+    {
+      "season": "2007",
+      "game_rows": 31
+    },
+    {
+      "season": "2009",
+      "game_rows": 64
+    },
+    {
+      "season": "2011",
+      "game_rows": 31
+    },
+    {
+      "season": "2012",
+      "game_rows": 5700
+    },
+    {
+      "season": "2013",
+      "game_rows": 5826
+    },
+    {
+      "season": "2014",
+      "game_rows": 5836
+    },
+    {
+      "season": "2015",
+      "game_rows": 5759
+    },
+    {
+      "season": "2016",
+      "game_rows": 5699
+    },
+    {
+      "season": "2017",
+      "game_rows": 5660
+    },
+    {
+      "season": "2018",
+      "game_rows": 5723
+    },
+    {
+      "season": "2019",
+      "game_rows": 5469
+    },
+    {
+      "season": "2020",
+      "game_rows": 5564
+    },
+    {
+      "season": "2021",
+      "game_rows": 5939
+    },
+    {
+      "season": "2022",
+      "game_rows": 6008
+    },
+    {
+      "season": "2023",
+      "game_rows": 5951
+    },
+    {
+      "season": "2024",
+      "game_rows": 10036
+    },
+    {
+      "season": "2025",
+      "game_rows": 9598
+    }
+  ],
+  "valuation_rows_by_year": [
+    {
+      "valuation_year": 2000,
+      "valuation_rows": 1
+    },
+    {
+      "valuation_year": 2001,
+      "valuation_rows": 1
+    },
+    {
+      "valuation_year": 2003,
+      "valuation_rows": 2
+    },
+    {
+      "valuation_year": 2004,
+      "valuation_rows": 2305
+    },
+    {
+      "valuation_year": 2005,
+      "valuation_rows": 2439
+    },
+    {
+      "valuation_year": 2006,
+      "valuation_rows": 2673
+    },
+    {
+      "valuation_year": 2007,
+      "valuation_rows": 5617
+    },
+    {
+      "valuation_year": 2008,
+      "valuation_rows": 9305
+    },
+    {
+      "valuation_year": 2009,
+      "valuation_rows": 12067
+    },
+    {
+      "valuation_year": 2010,
+      "valuation_rows": 13795
+    },
+    {
+      "valuation_year": 2011,
+      "valuation_rows": 17788
+    },
+    {
+      "valuation_year": 2012,
+      "valuation_rows": 19714
+    },
+    {
+      "valuation_year": 2013,
+      "valuation_rows": 22636
+    },
+    {
+      "valuation_year": 2014,
+      "valuation_rows": 23707
+    },
+    {
+      "valuation_year": 2015,
+      "valuation_rows": 30479
+    },
+    {
+      "valuation_year": 2016,
+      "valuation_rows": 34653
+    },
+    {
+      "valuation_year": 2017,
+      "valuation_rows": 35923
+    },
+    {
+      "valuation_year": 2018,
+      "valuation_rows": 41097
+    },
+    {
+      "valuation_year": 2019,
+      "valuation_rows": 46088
+    },
+    {
+      "valuation_year": 2020,
+      "valuation_rows": 48749
+    },
+    {
+      "valuation_year": 2021,
+      "valuation_rows": 58412
+    },
+    {
+      "valuation_year": 2022,
+      "valuation_rows": 59564
+    },
+    {
+      "valuation_year": 2023,
+      "valuation_rows": 57576
+    },
+    {
+      "valuation_year": 2024,
+      "valuation_rows": 45376
+    },
+    {
+      "valuation_year": 2025,
+      "valuation_rows": 45482
+    },
+    {
+      "valuation_year": 2026,
+      "valuation_rows": 20852
+    }
+  ]
+}

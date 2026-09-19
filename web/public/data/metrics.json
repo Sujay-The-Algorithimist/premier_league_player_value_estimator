@@ -1,0 +1,95 @@
+{
+  "models": [
+    {
+      "name": "Linear Regression",
+      "r2_log": 0.669,
+      "rmse_log": 0.717,
+      "mae_log": null
+    },
+    {
+      "name": "Ridge",
+      "r2_log": 0.658,
+      "rmse_log": 0.729,
+      "mae_log": null
+    },
+    {
+      "name": "Random Forest",
+      "r2_log": 0.722,
+      "rmse_log": 0.657,
+      "mae_log": null
+    }
+  ],
+  "ablation": [],
+  "by_position": [
+    {
+      "group": "Attack",
+      "rows": 295,
+      "r2_log": 0.682,
+      "rmse_log": 0.64,
+      "median_absolute_percentage_error": 35.85,
+      "mae_eur_millions": 10.86
+    },
+    {
+      "group": "Defender",
+      "rows": 374,
+      "r2_log": 0.707,
+      "rmse_log": 0.665,
+      "median_absolute_percentage_error": 41.27,
+      "mae_eur_millions": 8.28
+    },
+    {
+      "group": "Goalkeeper",
+      "rows": 81,
+      "r2_log": 0.665,
+      "rmse_log": 0.785,
+      "median_absolute_percentage_error": 46.87,
+      "mae_eur_millions": 6.26
+    },
+    {
+      "group": "Midfield",
+      "rows": 298,
+      "r2_log": 0.749,
+      "rmse_log": 0.627,
+      "median_absolute_percentage_error": 34.35,
+      "mae_eur_millions": 9.11
+    }
+  ],
+  "by_value_band": [
+    {
+      "group": "<€2M",
+      "rows": 100,
+      "r2_log": -2.435,
+      "rmse_log": 1.388,
+      "median_absolute_percentage_error": 236.32,
+      "mae_eur_millions": 2.31
+    },
+    {
+      "group": "€2-10M",
+      "rows": 256,
+      "r2_log": -1.182,
+      "rmse_log": 0.609,
+      "median_absolute_percentage_error": 48.59,
+      "mae_eur_millions": 4.0
+    },
+    {
+      "group": "€10-30M",
+      "rows": 443,
+      "r2_log": -2.29,
+      "rmse_log": 0.529,
+      "median_absolute_percentage_error": 32.38,
+      "mae_eur_millions": 8.97
+    },
+    {
+      "group": ">€30M",
+      "rows": 249,
+      "r2_log": -0.268,
+      "rmse_log": 0.406,
+      "median_absolute_percentage_error": 28.31,
+      "mae_eur_millions": 17.24
+    }
+  ],
+  "split": {
+    "train": "2012–2023",
+    "test": "2024–2025"
+  }
+}

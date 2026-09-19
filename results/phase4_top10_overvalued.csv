@@ -1,0 +1,11 @@
+player_id,name,season,position,actual_value_eur,predicted_value_eur,error_eur,error_pct,direction
+1047256,Asher Agbinone,2024,Attack,75000,2516143,2441143,3254.857333333333,overvalued
+99397,Karl Darlow,2025,Goalkeeper,200000,3475106,3275106,1637.553,overvalued
+856479,Roman Dixon,2024,Defender,200000,2491095,2291095,1145.5475,overvalued
+1047257,Rio Cardines,2025,Defender,300000,3320496,3020496,1006.832,overvalued
+184528,Emil Krafth,2025,Defender,750000,8231985,7481985,997.598,overvalued
+638964,Nathan Butler-Oyedeji,2024,Attack,1000000,10447787,9447787,944.7787,overvalued
+939290,Jayden Danns,2024,Attack,800000,7842178,7042178,880.27225,overvalued
+428016,Brandon Austin,2024,Goalkeeper,600000,5032415,4432415,738.7358333333333,overvalued
+209212,Solly March,2025,Attack,1000000,8273696,7273696,727.3696,overvalued
+215810,Tom King,2024,Goalkeeper,200000,1622909,1422909,711.4544999999999,overvalued

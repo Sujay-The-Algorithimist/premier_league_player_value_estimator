@@ -1,0 +1,10 @@
+# Downloaded source data and secrets must stay local.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+
